@@ -6,6 +6,13 @@ Class ParallelL2():
     def __init__(self,pArgs):
         pass
 
+    def CmdGenerator(self):
+        '''Generates l2gen command line string for next process'''
+        pass
+
+    def ProcessRunner(self):
+        pass
+
 def Main():
     '''Function to parse out command line and launch l2gen parallel processing'''
     pass
