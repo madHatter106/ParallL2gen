@@ -1,1 +1,1 @@
- Runs NASA Ocean Biology Processing Group's Remote Sensing program, l2gen, in parallel.
+ Runs NASA Ocean Biology Processing Group's Remote Sensing program, l2gen, in parallel. This is based on preliminary work done on [Monte-Carlo simulation-based estimation of remote sensing radiance uncertainty](https://github.com/madHatter106/MakeUNC)
